@@ -1,0 +1,14 @@
+.links {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100px;
+}
+
+.links a {
+  color: #e9e8e7;
+}
+
+.links a:hover {
+  color: white;
+}
